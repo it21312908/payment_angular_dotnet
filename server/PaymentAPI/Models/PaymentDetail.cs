@@ -21,4 +21,5 @@ namespace PaymentAPI.Models
 		[Column(TypeName = "nvarchar(3)")]
 		public string SecurityCode { get; set; } = "";
 	}
+	//
 }
